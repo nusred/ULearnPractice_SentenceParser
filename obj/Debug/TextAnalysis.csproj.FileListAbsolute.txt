@@ -1,0 +1,13 @@
+C:\Users\User\Downloads\TextAnalysis.csproj\bin\Debug\HarryPotterText.txt
+C:\Users\User\Downloads\TextAnalysis.csproj\bin\Debug\TextAnalysis.exe.config
+C:\Users\User\Downloads\TextAnalysis.csproj\bin\Debug\TextAnalysis.exe
+C:\Users\User\Downloads\TextAnalysis.csproj\bin\Debug\TextAnalysis.pdb
+C:\Users\User\Downloads\TextAnalysis.csproj\bin\Debug\nunit.framework.dll
+C:\Users\User\Downloads\TextAnalysis.csproj\bin\Debug\nunitlite.dll
+C:\Users\User\Downloads\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\TextAnalysis.csproj\obj\Debug\TextAnalysis.Properties.Resources.resources
+C:\Users\User\Downloads\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.GenerateResource.cache
+C:\Users\User\Downloads\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.CopyComplete
+C:\Users\User\Downloads\TextAnalysis.csproj\obj\Debug\TextAnalysis.exe
+C:\Users\User\Downloads\TextAnalysis.csproj\obj\Debug\TextAnalysis.pdb
